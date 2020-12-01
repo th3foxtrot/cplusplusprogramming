@@ -1,0 +1,10 @@
+﻿  Collision.cpp
+  Game.cpp
+C:\Users\cflic\Documents\cplusplusprogramming\game1\game1\Game.cpp(111,68): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\cflic\Documents\cplusplusprogramming\game1\game1\Game.cpp(112,68): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+  Map.cpp
+  TextureManager.cpp
+  main.cpp
+  Generating Code...
+  game1.vcxproj -> C:\Users\cflic\Documents\cplusplusprogramming\game1\Debug\game1.exe

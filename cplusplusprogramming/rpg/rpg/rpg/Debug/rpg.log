@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\cflic\Documents\cplusplusprogramming\rpg\rpg\rpg\main.cpp(50,49): error C2660: 'Game::init': function does not take 6 arguments
+C:\Users\cflic\Documents\cplusplusprogramming\rpg\rpg\rpg\Game.h(11,7): message : see declaration of 'Game::init'
